@@ -4,7 +4,7 @@
   "license": "GPL-3.0",
   "type": "symfony-bundle",
   "require": {
-    "guzzle/http": "3.9.*"
+    "misd/guzzle-bundle": "1.1.*"
   },
   "autoload": {
     "psr-4": {
