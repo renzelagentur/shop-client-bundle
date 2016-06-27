@@ -1,0 +1,13 @@
+{
+  "name": "ra/shop-client-bundle",
+  "description": "Symfony shop client for Renzel Agentur silex rest api",
+  "type": "symfony-bundle",
+  "require": {
+    "guzzle/http": "3.9.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "RA\\ShopClientBundle": "."
+    }
+  }
+}
