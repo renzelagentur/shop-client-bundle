@@ -8,7 +8,8 @@
 
 namespace RA\ShopClientBundle\Service;
 
+use Guzzle\Http\Client;
+
 class ShopClient
 {
-
 }
